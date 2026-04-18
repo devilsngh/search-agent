@@ -20,3 +20,13 @@ the forecast or any specific location in Tokyo?
 1 -> AIMessage(content='', additional_kwargs='....)  
 2 -> ToolMessage(content='Tokyo weather is sunny', ....)  
 3 -> AIMessage(content='The weather in tokyo is currently sunny', ......)  
+<<<<<<< Updated upstream
+=======
+
+used tavily to add searching capabilities  
+
+![img_2.png](img_2.png)
+
+The current weather in Tokyo is clear with a temperature of 17.4°C (63.3°F). The wind speed is 5.4 mph (8.6 km/h) from  
+the southwest, and the humidity is 77%. It's a mild day with breezy conditions and a wet climate.
+>>>>>>> Stashed changes
