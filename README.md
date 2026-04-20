@@ -37,3 +37,7 @@ Searching for job postings for java full stack developer
 Using Travily built-in search tool  
 
 ![img_5.png](img_5.png)
+
+After adding schema for Agent Response - not working as "structured_response" key is not present in AI Message and no "Additional Fields" in output in langsmith. Maybe it has something to do with model as i am using only lightweight models
+
+![img_6.png](img_6.png)
