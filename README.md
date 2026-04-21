@@ -41,3 +41,13 @@ Using Travily built-in search tool
 After adding schema for Agent Response - not working as "structured_response" key is not present in AI Message and no "Additional Fields" in output in langsmith. Maybe it has something to do with model as i am using only lightweight models
 
 ![img_6.png](img_6.png)
+
+ReAct - agent loop often referred ReAct loop or ReAct algorithm  
+this agent loop is the basis for most state-of-art agents like Claude, Gemini, codex, devin  
+
+Research paper - ReAct: Synergizing Reasoning and acting on language models  
+
+Query -> Thought (LLM) -> Action -> tool -> observation -> thought  
+thought -> answer  
+
+Thought -> Action -> tool -> observation -> Thought : THIS IS THE AGENT LOOP  
